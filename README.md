@@ -1,2 +1,2 @@
 # Comics
-Port of ComicsBot to GTK
+Read comics from XKCD
